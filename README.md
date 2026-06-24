@@ -8,11 +8,11 @@ A custom, fully accessible HubSpot CMS theme built for the **HubSpot CMS for Dev
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
 ## 🌐 Live Preview
-[View Live Practicum Page](https://148406044.hs-sites-eu1.com/final-practicum-4)
 
+https://hubspot-accessible-theme-845882354658.europe-west2.run.app
 ## 📸 Screenshots
-*(Add your own screenshots here – desktop and mobile views)*
 
+![Hubspot-Accessible-Theme](IMG_20260625_002016.jpg)
 ## 🏆 Lighthouse Scores
 - **Accessibility:** 100/100 ✅
 - **Performance:** ≥ 90/100 ✅
@@ -70,7 +70,7 @@ HubSpot-Accessible-Theme/
 
 ## 📜 Certification
 This theme was built as part of the **HubSpot CMS for Developers II** practicum.  
-[View Certificate](https://academy.hubspot.com/certificates/) (add your certificate link)
+[View Certificate](https://academy.hubspot.com/certificates/) (https://app-eu1.hubspot.com/academy/achievements/vkc0vc8b/en/1/biruk-tsegaye/hubspot-cms-for-developers-ii-best-practices)
 
 ## 🛠️ Technologies
 - HubL (HubSpot Markup Language)
