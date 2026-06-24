@@ -1,0 +1,6 @@
+{
+  "name": "HubSpot Accessible Theme",
+  "description": "A fully accessible, responsive portfolio marketing website built following WCAG 2.2 AA standards and HubSpot CMS engineering principles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
